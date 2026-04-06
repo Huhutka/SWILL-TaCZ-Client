@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+
+[[mods]]
+modId="swill_tacz_client"
+version="1.0.0"
+displayName="SWILL-TaCZ Client"
+logoFile="swill.png"
+description='''
+Чит клиент для Minecraft с интеграцией TaCZ.
+Функции: AimBot, ESP, WallHack, TriggerBot.
+'''
+
+[[dependencies.swill_tacz_client]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="CLIENT"
+
+[[dependencies.swill_tacz_client]]
+modId="tacz"
+mandatory=true
+versionRange="[1.0,)"
+ordering="AFTER"
+side="CLIENT"

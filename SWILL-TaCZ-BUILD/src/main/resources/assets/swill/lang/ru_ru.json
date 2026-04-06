@@ -1,0 +1,17 @@
+{
+    "swill.name": "SWILL-TaCZ Чит Клиент",
+    "swill.aimbot.name": "AimBot",
+    "swill.aimbot.enabled": "Включить AimBot",
+    "swill.aimbot.fov": "Угол обзора (FOV)",
+    "swill.aimbot.target.head": "Голова",
+    "swill.aimbot.target.neck": "Шея",
+    "swill.aimbot.target.chest": "Грудь",
+    "swill.esp.show_box": "Бокс",
+    "swill.esp.show_skeleton": "Скелет",
+    "swill.esp.show_tracer": "Трассер",
+    "swill.esp.box_style.corner": "Угловой",
+    "swill.esp.box_style.full": "Полный",
+    "swill.wallhack.name": "WallHack",
+    "swill.triggerbot.name": "TriggerBot",
+    "swill.key.open_menu": "Открыть меню"
+}

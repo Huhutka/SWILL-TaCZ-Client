@@ -1,0 +1,16 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "com.swill.tacz.mixins",
+    "compatibilityLevel": "JAVA_17",
+    "refmap": "swill.refmap.json",
+    "mixins": [
+        "MixinEntityRenderer",
+        "MixinWorldRenderer",
+        "MixinLivingEntity"
+    ],
+    "client": [],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
